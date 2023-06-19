@@ -37,7 +37,7 @@ Made by the creator of the original More Foodz mod, this mod adds in over 20 new
 
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 
-<img src="https://creativecommons.org/images/deed/cc_icon_white_x2.png"  width="60%" height="60%">
-<img src="https://creativecommons.org/images/deed/attribution_icon_white_x2.png"  width="60%" height="60%">
-<img src="https://creativecommons.org/images/deed/nc_white_x2.png"  width="60%" height="60%">
-<img src="https://creativecommons.org/images/deed/nd_white_x2.png"  width="60%" height="60%">
+<img src="https://creativecommons.org/images/deed/cc_icon_white_x2.png"  width="20%" height="20%">
+<img src="https://creativecommons.org/images/deed/attribution_icon_white_x2.png"  width="20%" height="20%">
+<img src="https://creativecommons.org/images/deed/nc_white_x2.png"  width="20%" height="20%">
+<img src="https://creativecommons.org/images/deed/nd_white_x2.png"  width="20%" height="20%">
